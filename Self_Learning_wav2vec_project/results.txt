@@ -1,0 +1,8 @@
+============================================================
+WAV2VEC 2.0 TRANSCRIPTION RESULTS
+Generated: 2025-12-12 15:58:05
+============================================================
+
+Audio: audio_text.mp3
+Transcription: FARMECODYNAMICS DESCRIBES THE LINK BETWEEN THE CONCENTRATION OF A DRUG AND SOME EFFECT OF INTEREST THAT IS WHAT THE DRUG DOES TO THE BODY
+----------------------------------------
